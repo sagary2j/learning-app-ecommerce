@@ -1,13 +1,7 @@
 #!/bin/bash
 #
 # Automate ECommerce Application Deployment
-# Author: Mumshad Mannambeth
 
-#######################################
-# Print a message in a given color.
-# Arguments:
-#   Color. eg: green, red
-#######################################
 function print_color(){
   NC='\033[0m' # No Color
 
